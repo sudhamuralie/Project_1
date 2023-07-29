@@ -47,6 +47,8 @@ public class Main {
     System.out.println(s1.getDetails());
     ResearchStudent s2 = new ResearchStudent("siddharth", 4, "Software Engineering");
     System.out.println(s2.getDetails());
+System.out.println("Git Commit Message");
+	
   }
 }
 
